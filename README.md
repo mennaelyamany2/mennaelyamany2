@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mennaelyamany95@gmail.com**
 
-- 📄 MY CV [https://cisuezedu-my.sharepoint.com/:w:/g/personal/ugs_141065_ci_suez_edu_eg/EY8T8CbvUy5IiZNnoQYbe5wBMRvJvM574dcN8bNeO1-hNw?rtime=-yN7iwWr2kg](https://cisuezedu-my.sharepoint.com/:w:/g/personal/ugs_141065_ci_suez_edu_eg/EY8T8CbvUy5IiZNnoQYbe5wBMRvJvM574dcN8bNeO1-hNw?rtime=-yN7iwWr2kg)
+- 📄 MY CV [bit.ly/3WSfDe8](bit.ly/3WSfDe8)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
