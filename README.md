@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mennaelyamany95@gmail.com**
 
-- 📄 MY CV [bit.ly/3WSfDe8](bit.ly/3WSfDe8)
+- 📄 MY CV [https://bit.ly/3WSfDe8](https://bit.ly/3WSfDe8)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
