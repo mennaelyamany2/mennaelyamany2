@@ -9,8 +9,6 @@
 
 - 🔭 I’m a junior **programmer**
 
-- 🌱 I’m currently learning **Back-End Development**
-
 - My Portfolio [https://mennaelyamany2.github.io/portfolio/](https://mennaelyamany2.github.io/portfolio/)
 
 - 📫 How to reach me **mennaelyamany95@gmail.com**
