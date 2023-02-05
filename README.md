@@ -11,7 +11,7 @@
 
 - My Portfolio [https://mennaelyamany2.github.io/portfolio/](https://mennaelyamany2.github.io/portfolio/)
 
-- 📫 How to reach me **mennaelyamany95@gmail.com**
+- 📫 How to reach me **business.m142002@gmail.com**
 
 - 📄 MY CV [https://bit.ly/3WSfDe8](https://bit.ly/3WSfDe8)
 
