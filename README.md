@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **business.m142002@gmail.com**
 
-- 📄 MY CV [https://2u.pw/PYv0NdD)
+- 📄 MY CV https://2u.pw/PYv0NdD
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
