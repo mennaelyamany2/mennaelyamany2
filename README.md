@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/menna-elyamany-a7251a20b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="menna-elyamany-a7251a20b" height="30" width="40" /></a>
 <a href="https://fb.com/menna.elyamany.58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="menna.elyamany.58" height="30" width="40" /></a>
-<a href="https://instagram.com/menna_elyamany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="menna_elyamany" height="30" width="40" /></a>
+
 <a href="https://codeforces.com/profile/menna_elyamany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="menna_elyamany" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/menna_elyamany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="menna_elyamany" height="30" width="40" /></a>
 </p>
