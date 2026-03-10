@@ -7,13 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m a junior **programmer**
+- 🔭 I’m a junior **Devops Engineer**
 
 - My Portfolio [https://mennaelyamany2.github.io/portfolio/](https://mennaelyamany2.github.io/portfolio/)
 
-- 📫 How to reach me **business.m142002@gmail.com**
+- 📫 How to reach me **mennaelyamany95@gmail.com**
 
-- 📄 MY CV https://2u.pw/PYv0NdD
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
