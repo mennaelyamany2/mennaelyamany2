@@ -1,25 +1,155 @@
-<h1 align="center">Hi 👋, I'm Menna Elyamany</h1>
-<h3 align="center">computer science student</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Menna+Elyamany;Junior+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Building+Scalable+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/mennaelyamany" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mennaelyamany95@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mennaelyamany">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mennaelyamany2" alt="mennaelyamany2" /></a> </p>
+## 🚀 About Me
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+> *Junior DevOps Engineer passionate about building scalable infrastructure and automating everything.*
 
-- 🔭 I’m a junior **Devops Engineer**
+- 🔧 Hands-on experience with **AWS, Docker, Kubernetes, and CI/CD pipelines**
+- ☁️ Skilled in **Infrastructure as Code** using Terraform & Ansible
+- 🤖 Exploring **Agentic AI for DevOps Automation**
+- 🏆 **7th place** out of 60 teams — ECPC Competitive Programming Contest
+- 📍 Based in **Egypt**
 
-- My Portfolio ([https://mennaelyamany2.github.io/portfolio/](https://www.canva.com/design/DAHDk3Y3Vxo/eOAsdTBgAgPZYkpBlkYyGg/edit?utm_content=DAHDk3Y3Vxo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+---
 
-- 📫 How to reach me **mennaelyamany95@gmail.com**
+## 🛠️ Tech Stack
 
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/menna-elyamany-a7251a20b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="menna-elyamany-a7251a20b" height="30" width="40" /></a>
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+### 🔄 CI/CD & DevOps Tools
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
+### 💻 Languages & OS
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+## 📌 Featured Projects
+
+### 🛸 SkyOps — Full DevOps Pipeline
+> End-to-end DevOps solution with automated infrastructure and CI/CD
+
+- Provisioned infrastructure with **Terraform** on **Amazon EKS**
+- Configured environments using **Ansible**
+- Built **Jenkins** pipelines with **SonarQube** code quality gates
+- Orchestrated workloads with **Kubernetes**
+
+---
+
+### 🏦 Banking Kubernetes Platform
+> Production-grade containerized microservices on Kubernetes
+
+- **StatefulSets** with persistent storage + **HPA** auto-scaling
+- Zero-downtime deployments via **rolling updates**
+- Security hardening: **RBAC, Network Policies, Secrets, ConfigMaps**
+- Logging with **Fluentd** + traffic routing via **Ingress**
+
+---
+
+### 📋 Docker Task Manager
+> Containerized task management with Flask + PostgreSQL + Redis
+
+- **Docker Compose** multi-container architecture
+- Redis **caching** for performance optimization
+- Fully portable across environments
+
+---
+
+### 🏥 DoctorzApp *(Graduation Project)*
+> Full-stack healthcare booking backend
+
+- **Node.js / Express** REST API with **MVC** architecture
+- **MongoDB** + Mongoose ODM
+- **JWT** authentication + **Paymob** payment integration
+
+---
+
+## 💼 Experience
+
+```
+🏛️ Egyptian Military Academy (Digilians)   Jan 2026 – Jun 2026
+   DevOps Trainee
+   ├── Reduced deployment time by 30% with Jenkins CI/CD
+   ├── Containerized apps with Docker & orchestrated with Kubernetes
+   ├── Automated infra provisioning using Terraform & Ansible
+   └── Integrated SonarQube for static code analysis
+
+📡 Telecom Egypt                            Sep 2024 – Oct 2025
+   Sales Agent & Team Lead
+
+🚢 Suez Canal Authority                     Jul 2022 – Aug 2022
+   Summer Intern — C#, SQL, GitHub
+
+🌐 Cisco                                    Jul 2021 – Aug 2021
+   Summer Intern — Networking Fundamentals
+```
+
+---
+
+## 🎓 Education & Certifications
+
+🎓 **B.Sc. Computer Science** — Suez Canal University *(Very Good GPA)*
+
+| Certification | Issuer |
+|---|---|
+| ☁️ AWS Certified Cloud Practitioner (CLF-C02) | Amazon Web Services |
+| 🌐 Cisco Networking Academy | Cisco |
+| 🤖 Introduction to AI Workshop | ITIDA |
+
+---
+
+## 🏆 Achievements
+
+> 🥇 **7th Place** — Egyptian Collegiate Programming Contest (ECPC 2021)  
+> *Out of 60 teams · Algorithmic problem solving in C++ · Alexandria, Egypt*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mennaelyamany&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mennaelyamany&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mennaelyamany&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mennaelyamany&color=00d4ff&style=flat-square&label=Profile+Views"/>
+</p>
+
+<p align="center">
+  <i>"Automate everything. Break nothing. Ship faster." 🚀</i>
+</p>
